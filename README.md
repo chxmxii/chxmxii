@@ -1,13 +1,15 @@
 <div align="center">
   
-### Hola,
-[![Linkedin](https://img.shields.io/badge/-Chamsii.Mouhib-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouhib-chm/) [![Gmail](https://img.shields.io/badge/-Chamsii.Mouhib-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chamsii.mouhib@gmail.com
+## <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35"> Hola, I'm Chamsii Mouhib <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35">
+#### Reach me out through :
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=appveyor&logoColor=white)](https://chxmxii.github.io/portfolio/)
+[![Linkedin](https://img.shields.io/badge/-Chamsii.Mouhib-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouhib-chm/) [![Gmail](https://img.shields.io/badge/-Chamsii.Mouhib-black?style=flat&logo=Gmail&logoColor=white)](mailto:chamsii.mouhib@gmail.com
 ) 
+[![spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify&logoColor=white)](https://chxmxii.github.io/portfolio/)
 
-I love to do automation stuff
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E93030&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineering+Student;Cloud+enthusiast;CTF+Player;Music+Producer%2C+Sometimes..)](https://git.io/typing-svg)
-
+###   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="25" height="35"  style="vertical-align:top; margin:4px"> About me : 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=black&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineering+Student;Cloud+enthusiast;CTF+Player;Music+Producer%2C+Sometimes..)](https://git.io/typing-svg)
+  <li> I love to do automation stuff </li>
   <li>I'm in constant learning (currently Ansible, Terraform, K8S etc..)</li>
   <li>Currently exploring Open Source field</li>
   <li>Trying to learn new technologies and try to keep myself busy</li>
@@ -21,9 +23,19 @@ I love to do automation stuff
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="45" height="55"  style="vertical-align:top; margin:4px"> 
- </div>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"></code>
+ <code><img height="20" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+ <code><img height="20" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img height="20" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
+ <code><img height="20" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
+   
+</div>
 <div align="center">
 <img src="https://i.imgur.com/ItouU.giff" width="400" height="200"/>
  </div>
