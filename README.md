@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=black&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineering+Student;Cloud+enthusiast;CTF+Player;Music+Producer%2C+Sometimes..)](https://git.io/typing-svg)
   <li> I love to do automation stuff </li>
   <li>I'm in constant learning (currently Ansible, Terraform, K8S etc..)</li>
-  <li> I try to solve some web challs while playing CTF games with my friends </li> 
+  <li> I try to solve some web challs while playing CTF with my friends </li> 
   <li>Currently exploring Open Source field</li>
   <li>Trying to learn new technologies and try to keep myself busy</li>
 
