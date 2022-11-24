@@ -5,7 +5,10 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=appveyor&logoColor=white)](https://chxmxii.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/-Chamsii.Mouhib-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouhib-chm/) [![Gmail](https://img.shields.io/badge/-Chamsii.Mouhib-black?style=flat&logo=Gmail&logoColor=white)](mailto:chamsii.mouhib@gmail.com
 ) 
-[![spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify&logoColor=white)](https://chxmxii.github.io/portfolio/)
+[![spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/14KuzLPV2nlreceeJmq9Js?si=Uw5qLatuQ-ytST0aLTPSBg)
+  [![twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter&logoColor=white)](https://twitter.com/chxmxii_)
+   [![instagram](https://img.shields.io/badge/-Instagram-black?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mouhibchamsii/)
+
 
 ###   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="25" height="35"  style="vertical-align:top; margin:4px"> About me : 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=black&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineering+Student;Cloud+enthusiast;CTF+Player;Music+Producer%2C+Sometimes..)](https://git.io/typing-svg)
@@ -36,6 +39,7 @@
  <code><img height="20" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
    
 </div>
+
 <div align="center">
 <img src="https://i.imgur.com/ItouU.giff" width="400" height="200"/>
  </div>
