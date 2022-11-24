@@ -11,7 +11,7 @@
 
 
 ###   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> About me : 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=black&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineering+Student;Cloud+enthusiast;CTF+Player;Music+Producer%2C+Sometimes..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=black&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineering+Student;Cloud+enthusiast;CTF+Player;Music+Producer%2C+But sometimes..)](https://git.io/typing-svg)
   <li> I love automation.  </li>
   <li>I'm in constant learning (currently Ansible, Terraform, K8S etc..)</li>
   <li> I try to solve some web challs while playing CTF with my friends. </li> 
