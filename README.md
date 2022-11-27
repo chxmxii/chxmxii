@@ -1,7 +1,7 @@
 <div align="center">
   
 ## <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35"> Hola, I'm Chamsii Mouhib <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35">
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> Reach me out through :
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> Reach me out through my :
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=appveyor&logoColor=white)](https://chxmxii.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/-Chamsii.Mouhib-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouhib-chm/) [![Gmail](https://img.shields.io/badge/-Chamsii.Mouhib-black?style=flat&logo=Gmail&logoColor=white)](mailto:chamsii.mouhib@gmail.com
 ) 
