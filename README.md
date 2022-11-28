@@ -14,9 +14,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=black&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineering+Student;Cloud+enthusiast;CTF+Player;Music+Producer%2C+but+sometimes..)](https://git.io/typing-svg)
   <li> I love automation.  </li>
   <li>I'm in constant learning (currently Ansible, Terraform, K8S etc..)</li>
+  <li>I’m following a pathway in both fields cloud infrastructure and cyber security.</li>
   <li> I try to solve some web challs while playing CTF with my friends. </li> 
   <li>Currently exploring Open Source field.</li>
-  <li>I’m following a pathway in both fields cloud infrastructure and cyber security.</li>
+  
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
