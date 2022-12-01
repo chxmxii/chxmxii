@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/94466413/205167984-01bf7341-9abc-48aa-94e7-1499c1036a7d.png">
   
 ## <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35"> Hola, I'm Chamsii Mouhib <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35">
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> Reach me out through my :
