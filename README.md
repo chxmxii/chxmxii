@@ -1,16 +1,14 @@
 <div align="center">
   
-## <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35"> Hola, I'm Chamsii Mouhib <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35">
+## <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35"> Hola, c chxmxii<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="35">
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> Reach me out through my :
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=appveyor&logoColor=white)](https://chxmxii.tech)
-[![Linkedin](https://img.shields.io/badge/-Chamsii.Mouhib-black?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouhib-chm/) [![Gmail](https://img.shields.io/badge/-Chamsii.Mouhib-black?style=flat&logo=Gmail&logoColor=white)](mailto:chamsii.mouhib@gmail.com
-) 
 [![spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/14KuzLPV2nlreceeJmq9Js?si=Uw5qLatuQ-ytST0aLTPSBg)
   [![twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter&logoColor=white)](https://twitter.com/chxmxii_)
 
 
 ###   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> About me : 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=black&center=true&vCenter=true&width=435&lines=DevOps/SR+Engineer;Music+Producer%2C+..+.sometimes..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=black&center=true&vCenter=true&width=435&lines=DevOps/SR+Engineer;Music+producer+,Sometimes...!)](https://git.io/typing-svg)
   <li>Xploring Open Source field.</li>
   
 
