@@ -33,7 +33,7 @@
 [personal]
 first_name = 'Mouhib'
 last_name = 'Chamsi'
-preferred_language = 'python, go'
+preferred_language = 'Golang'
 favorite_book = 'The phoneix project'
 
 [education]
@@ -41,7 +41,7 @@ major = 'Computer Science'
 minor = 'CyberSecurity'
 
 [extra]
-hobbies = ['music', 'gaming', 'cooking', 'coding']
+hobbies = ['music prod', 'coding', 'cooking', 'gaming']
 ```
 ---
 <div align="center">
