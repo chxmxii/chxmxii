@@ -25,10 +25,6 @@
  <code><img height="35" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
   <code><img height="35" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
  <code><img height="35" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
-   -->
-<!--/div-->
-
-
 ```toml
 [personal]
 first_name = 'Mouhib'
@@ -43,6 +39,10 @@ minor = 'CyberSecurity'
 [extra]
 hobbies = ['music prod', 'coding', 'cooking', 'gaming']
 ```
+   -->
+<!--/div-->
+
+
 ---
 <div align="center">
 
@@ -50,7 +50,7 @@ hobbies = ['music prod', 'coding', 'cooking', 'gaming']
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=appveyor&logoColor=white)](https://chxmxii.tech)
 [![spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/14KuzLPV2nlreceeJmq9Js?si=Uw5qLatuQ-ytST0aLTPSBg)
   [![twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter&logoColor=white)](https://twitter.com/chxmxii_)
-  
+---
   <!--img src="https://i.imgur.com/ItouU.giff" width="400" height="200"/>
  </div>
  <div align="center">
