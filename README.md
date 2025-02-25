@@ -43,7 +43,6 @@ hobbies = ['music prod', 'coding', 'cooking', 'gaming']
 <!--/div-->
 
 
----
 <div align="center">
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> Reach me out through my :
