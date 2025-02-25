@@ -45,8 +45,8 @@ hobbies = ['music prod', 'coding', 'cooking', 'gaming']
 
 <div align="center">
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> Reach me out through my :
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=appveyor&logoColor=white)](https://chxmxii.tech)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> find me:
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=appveyor&logoColor=white)](https://chxmxii.me)
 [![spotify](https://img.shields.io/badge/-Spotify-black?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/14KuzLPV2nlreceeJmq9Js?si=Uw5qLatuQ-ytST0aLTPSBg)
   [![twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter&logoColor=white)](https://twitter.com/chxmxii_)
 ---
