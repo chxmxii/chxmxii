@@ -42,7 +42,7 @@ hobbies = ['music prod', 'coding', 'cooking', 'gaming']
    -->
 <!--/div-->
 
-
+<!--
 <div align="center">
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" alt="UNIX Like Systems" width="10" height="15"  style="vertical-align:top; margin:4px"> find me:
@@ -58,5 +58,7 @@ hobbies = ['music prod', 'coding', 'cooking', 'gaming']
 <!--  <a href="https://github.com/chxmxii?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/chxmxii?color=236ad3&labelColor=black&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <!--   <a href="https://github.com/chxmxii/">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=chxmxii&label=Profile%20Views%20&color=236ad3&style=for-the-badge"/></a> -->
-</div>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=chxmxii&label=Profile%20Views%20&color=236ad3&style=for-the-badge"/></a> 
+    
+    </div>
+-->
